@@ -1,0 +1,21 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="jacob">
+    <words>
+      <w>addmonsterpopulation</w>
+      <w>attackmultiplier</w>
+      <w>gameover</w>
+      <w>gamewon</w>
+      <w>getlocation</w>
+      <w>monsterdied</w>
+      <w>monsterpopulation</w>
+      <w>monstertype</w>
+      <w>moveplayer</w>
+      <w>numberofmonsters</w>
+      <w>playerlocation</w>
+      <w>receiveattack</w>
+      <w>updatemonsterpopulation</w>
+      <w>weaponbroke</w>
+      <w>weapontype</w>
+    </words>
+  </dictionary>
+</component>
